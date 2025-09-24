@@ -1,0 +1,26 @@
+﻿{
+    "name":  "operating_system",
+    "version":  "1.0.0",
+    "description":  "",
+    "main":  "index.js",
+    "scripts":  {
+                    "start":  "node index.js",
+                    "dev":  "node index.js"
+                },
+    "repository":  {
+                       "type":  "git",
+                       "url":  "git+https://github.com/AselC/operating_system.git"
+                   },
+    "keywords":  [
+
+                 ],
+    "author":  "",
+    "license":  "ISC",
+    "bugs":  {
+                 "url":  "https://github.com/AselC/operating_system/issues"
+             },
+    "homepage":  "https://github.com/AselC/operating_system#readme",
+    "dependencies":  {
+                         "express":  "^5.1.0"
+                     }
+}
